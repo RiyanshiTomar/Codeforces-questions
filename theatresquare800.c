@@ -11,7 +11,7 @@ Write the needed number of flagstones.
 Examples
 InputCopy
 6 6 4
-OutputCopy
+OutputCopy we have to 
 4*/
 
 #include <stdio.h>
